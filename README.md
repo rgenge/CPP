@@ -30,5 +30,3 @@ C09: STL containers.
 make
 ```
 2. After running make, you can use `./<program_name>` command and it will show the run the program or tests for the code.
-* To compress one file use:
-```
